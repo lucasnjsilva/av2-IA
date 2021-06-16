@@ -1,0 +1,1 @@
+# Repositório destinado a cadeira de Inteligência Artificial, ministrada pelo professor Rafael Soares.
